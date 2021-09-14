@@ -1,8 +1,5 @@
 # 출처 : https://programmers.co.kr/learn/courses/30/lessons/43163
 
-from collections import deque
-
-
 def solution(begin, target, words):
     global answer
     answer = []
