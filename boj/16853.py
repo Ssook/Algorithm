@@ -1,3 +1,4 @@
+# 출처 : https://www.acmicpc.net/problem/16853
 a, b = map(int, input().split())
 
 answer = 0
